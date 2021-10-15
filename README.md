@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋  welcome to my profile</h1>
 
-I am a junior software engineer who is currently undertaking a software engineering bootcemp with General Assembly, London.
+I am a junior software engineer who is currently undertaking a software engineering bootcmmp with General Assembly, London.
 
 - 🔭 I’m currently planning my new project starting 20/09/21.
 - 🌱 I’m currently learning Python and Django.
