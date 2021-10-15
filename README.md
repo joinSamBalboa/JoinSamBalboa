@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋  welcome to my profile</h1>
 
-<!--
-**joinSamBalboa/JoinSamBalboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a junior software engineer who is currently undertaking a software engineering bootcemp with General Assembly, London.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently planning my new project starting 20/09/21.
+- 🌱 I’m currently learning Python and Django.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to reach me 📫
+- E-Mail: [jasonabimbola@msn.com](mailto:jasonabimbola@msn.com)
+- LinkedIn: [@JoinSamBalboa](https://linkedin.com/in/joinsambalboa)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoinSamBalboa&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoinSamBalboa&show_icons=true&count_private=true?)
